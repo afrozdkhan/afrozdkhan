@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @afrozdkhan
+- 👋 Hi, I’m Mohammed Afroz
 - 👀 I’m interested in Geospatial data processing and AI/ML
 - 🌱 I’m currently learning LiDAR data labelling
 - 💞️ I’m looking to collaborate on AI/ML for Geospatial Information
